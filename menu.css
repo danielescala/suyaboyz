@@ -1,0 +1,23 @@
+/* Created this separate menu page to try fix menu padding issue from the other css page */
+
+.menu-header {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+}
+.logo {
+    margin: 30px;
+}
+.menu-header .nav{
+    margin-top: 100px;
+}
+.menu-img{
+    z-index: -2;
+}
+.menu{
+    background-color: black;
+    color: #fff;
+    padding: 100px;
+    margin-top: 0;
+    
+}
